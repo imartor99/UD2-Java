@@ -1,0 +1,45 @@
+package Relacion de ejercicios 5;
+
+public class ej1 {
+   //a) Variables enteras: p, q
+   int p = 12;
+   int q = 15;
+
+   //b) Variables float: x, y, z
+   float x = 1.5f;
+   float y = 3.7f;
+   float z = 5.5f;
+
+    //c) Variables carácter: a, b, c
+   char a = 'A';
+   char b = 'B';
+   char c = 'C';
+
+    //d) Variables double: raiz1, raiz2
+    double raiz1 = 1.327869;
+    double raiz2 = 2.495273;
+
+    //e)Variable entera larga: contador
+    long contador = 2000kg;
+
+    //f)Variable entera corta: indicador
+    short indicador = 6;
+
+    //g)Variable entera: indice
+    int indice = 1;
+
+    //h)Variables double: precio, precioFinal
+    double precio,precioFinal = 200,90;
+
+    //i) Variables carácter: car1, car2
+    char car1,car2 = 'L', 'G';
+    //j) Variable tipo byte: valor
+    byte valor = 9;
+
+    //k) Variables lógicas: primero, ultimo
+    boolean primero,ultimo = true,false;
+
+    //l) Variable de tipo cadena de caracteres: nombre
+    String nombre = "Nacho Martínez";
+
+}
