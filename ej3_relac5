@@ -1,0 +1,46 @@
+package Relacion ejercicios 5;
+
+public class ej3{
+    public static void main(String[] args) {
+        double x,y,a,b,c,d,e,f,g,h,j,m,n,p,q,r,s;
+        x = 1.0d;
+        y = 1.0d;
+        a = 1.0d;
+        b = 1.0d;
+        c = 1.0d;
+        d = 1.0d;
+        e = 1.0d;
+        f = 1.0d;
+        g = 1.0d;
+        h = 1.0d;
+        j = 1.0d;
+        m = 1.0d;
+        n = 1.0d;
+        p = 1.0d;
+        q = 1.0d;
+        r = 1.0d;
+        s = 1.0d;
+        double ejeA = 3.0/2.0 + 4.0/3.0;
+       
+        double ejeB = (1.0/x-5.0)-(3.0*x*y/4.0);
+       
+        double ejeC = 1.0/2.0+7.0;
+       
+        double ejeD = 7.0 + (1.0/2.0);
+        
+        double ejeE = ((a*a)/b-c) + (d-e) / (f-((g*h)/j));
+       
+        double ejeF = m/n + p;
+        
+        double ejeG = m + (n/(p-q));
+        
+        double ejeH = (a*a)/(b*b)+(c*c)/(d*d);
+       
+        double ejeI = (m + n/p)/(q - r/s);
+       
+        double ejeJ = (3.0*a + b)/((c - (d+5.0/e))/(f + g/(2.0*h)));
+        
+        double ejeK = ((a*a) + (2.0*a*b) + (b*b))/(((1.0*x)/2.0)+2.0);
+        
+    }
+}
