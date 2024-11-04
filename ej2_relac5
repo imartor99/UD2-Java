@@ -1,0 +1,26 @@
+package Relacion ejercicios 5;
+
+public class ej2{
+    public static void main(String[] args) {
+        byte edad = 22;
+        String codigoPostal = 18230;
+        float altura = 1.65f;
+        char genero = 'M';
+        String nombre = "Pepe";
+        int numeroDeHijos = 3;
+        double iva = 4.0d;
+        int tallaCamisa = 46;
+        float peso = 75.5f;
+        double precio = 199.99d;
+        boolean alumnoRepetidor = true;
+        String mensaje = "buenas";
+        char letra = 'N';
+        int mayorEdad = 18;
+        int minutos = 20;
+        int dias = 365;
+        String matriculaCoche = "LLM0134";
+        int contador = 15;
+        boolean mayorDeEdad = false;
+        String tallaCamiseta = "M";
+    }
+}
